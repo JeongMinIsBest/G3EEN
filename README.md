@@ -1,8 +1,5 @@
 # 🌱 2024 Seoul Big Data Campus Competition – Green Store Priority Location Analysis in Seoul
-
-This project was submitted to the **2024 Seoul Big Data Campus Competition** and is a **clustering-based location analysis project using Seoul public data**.
-  
-We conducted a data analysis to **derive priority location candidates based on demand for green stores and spatial characteristics**.
+This project was submitted to the **2024 Seoul Big Data Campus Competition** and is a **clustering-based location analysis project using Seoul public data**. Our team conducted a data analysis to **derive priority location candidates based on demand for green stores and spatial characteristics**.
 <br/>
 <br/>
 
