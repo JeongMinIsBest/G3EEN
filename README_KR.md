@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-## 🔍 What We Did
+## 🔍 프로젝트 진행 내용
 - 자치구 단위 공공데이터 통합
 - 공간 · 인구 · 상권 변수 기반 EDA
 - 다중 클러스터링 적용  
@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-## 📊 Data
+## 📊 데이터 설명
 
 ### 정제된 데이터 컬럼
 - 서울시 생활인구 / 거주인구  
@@ -36,7 +36,7 @@
 <br/>
 <br/>
 
-## 🛠 Tech Stack
+## 🛠 사용 기술 스택
 - Python  
 - pandas, numpy, scikit-learn  
 - Jupyter Notebook / Google Colab  
